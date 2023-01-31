@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin\\fork\\examen\\Examen-\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS.vbproj": {}
+    "C:\\Users\\corstens_o\\source\\repos\\ExamenKevin\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\fork\\examen\\Examen-\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS.vbproj": {
+    "C:\\Users\\corstens_o\\source\\repos\\ExamenKevin\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\fork\\examen\\Examen-\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS.vbproj",
+        "projectUniqueName": "C:\\Users\\corstens_o\\source\\repos\\ExamenKevin\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS.vbproj",
         "projectName": "loginpagina - Programmeren_EXAMEN_KEVINJESPERS",
-        "projectPath": "C:\\Users\\kevin\\fork\\examen\\Examen-\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS.vbproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\fork\\examen\\Examen-\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\obj\\",
+        "projectPath": "C:\\Users\\corstens_o\\source\\repos\\ExamenKevin\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS.vbproj",
+        "packagesPath": "C:\\Users\\corstens_o\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\corstens_o\\source\\repos\\ExamenKevin\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\loginpagina - Programmeren_EXAMEN_KEVINJESPERS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\corstens_o\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

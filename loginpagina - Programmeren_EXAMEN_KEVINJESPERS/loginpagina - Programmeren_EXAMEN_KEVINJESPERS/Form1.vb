@@ -6,6 +6,9 @@ Public Class Form1
 
     'gebruikersnaam spatie checker
     Public Function validateGebruikersnaam(ByVal pass As String) As Boolean
+        'Functie die hier gebruikt is laat spatie toe op elke plaats. Je kan wildcard * gebruiken
+        'om dit te voorkomen.
+
         Dim pattern As String = " "
 
 
@@ -43,7 +46,8 @@ Public Class Form1
 
     End Function
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-
+        'Als ik 3x verkeerd inlog mag ik na 10s te wachten opnieuw 3x ingeven, na de 4e keer
+        'moet je al terug 15seconden wachten. (Controleer het gebruik van check mod 3
         'passwoord
         Dim nmr As Integer = 0
         Dim sgn As Integer = 0
